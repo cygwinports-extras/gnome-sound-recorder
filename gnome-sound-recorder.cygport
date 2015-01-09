@@ -1,0 +1,10 @@
+inherit gnome2
+
+NAME="gnome-sound-recorder"
+VERSION=3.14.2
+RELEASE=1
+CATEGORY="GNOME"
+SUMMARY="GNOME sound recorder"
+DESCRIPTION="Sound Recorder provides a simple and modern interface that
+provides a straight-forward way to record and play audio. It allows you to
+do basic editing, and create voice memos."
