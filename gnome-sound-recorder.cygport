@@ -8,3 +8,7 @@ SUMMARY="GNOME sound recorder"
 DESCRIPTION="Sound Recorder provides a simple and modern interface that
 provides a straight-forward way to record and play audio. It allows you to
 do basic editing, and create voice memos."
+
+ARCH="noarch"
+
+REQUIRES="girepository-GLib2.0 girepository-Gst1.0 girepository-GstInterfaces1.0 girepository-Gtk3.0 gstreamer1.0-plugins-base gstreamer1.0-plugins-pulse"
